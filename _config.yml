@@ -1,14 +1,26 @@
-layout_spectrum: 0.4943701
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1935484
 color:
-  saturation: 0.6846976
-  lightness: 0.5982369
+  saturation: 1
   brandStrength: 0.7608916
-  rhythmicContrast: 0.6956769
+  lightness: 0.7634408
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-typography_spectrum: 0.4050179
+    - '#FFFFFF'
+    - '#1F1810'
+    - '#AAA590'
+    - '#F03E3A'
+    - '#0F3E90'
+  rhythmicContrast: 0.6397849
+layout_spectrum: 0.4943701
 name: Yuliana
