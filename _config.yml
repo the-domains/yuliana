@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.1935484
 color:
   saturation: 1
   brandStrength: 0.7608916
-  lightness: 0.7634408
+  rhythmicContrast: 0.6397849
   brandColors:
     - '#FFFFFF'
     - '#1F1810'
     - '#AAA590'
     - '#F03E3A'
     - '#0F3E90'
-  rhythmicContrast: 0.6397849
-layout_spectrum: 0.4943701
+  lightness: 0.7634408
+layout_spectrum: 1
 name: Yuliana
