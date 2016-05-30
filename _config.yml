@@ -1,3 +1,7 @@
+name: Yuliana
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.25699
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.2437276
-  lightness: 0.7634408
   brandColors:
     - '#FFFFFF'
     - '#1F1810'
     - '#AAA590'
     - '#F03E3A'
     - '#0F3E90'
+  brandStrength: 0.2437276
+  lightness: 0.7634408
+  saturation: 1
   rhythmicContrast: 0.6397849
-typography_spectrum: 0.1935484
-layout_spectrum: 1
-name: Yuliana
+purpose: []
