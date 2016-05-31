@@ -1,7 +1,7 @@
 name: Yuli
 favicon: null
-layout_spectrum: 0.25459
-typography_spectrum: 0.25699
+layout_spectrum: 0.461515684844926
+typography_spectrum: 0.9988488154485822
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#1F1810'
-    - '#AAA590'
-    - '#F03E3A'
-    - '#0F3E90'
-  brandStrength: 0.2437276
-  lightness: 0.7634408
-  saturation: 1
-  rhythmicContrast: 0.6397849
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.21814163052476943
+  lightness: 0.3326647251378745
+  saturation: 0.8632183924783021
+  rhythmicContrast: 0.6768655858468264
 purpose: []
