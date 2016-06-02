@@ -1,11 +1,11 @@
 ---
 description: 'It’s been just 74 days since Yuli arrived. Such a short time but so much has happened. She’s already changed so much and, as you can tell from the photos, grown so much. The growth charts are spiking and she’s already wearing clothes beyond her age and pushing the limits of fitting into her Moses basket. That in itself represents a slight problem for us as advice says to keep babies in your room for the first 6 months but we might need to move her into her own room before she reaches 3.'
-dateModified: '2016-06-02T08:14:02.183Z'
-datePublished: '2016-06-02T08:14:02.742Z'
+dateModified: '2016-06-02T08:14:03.639Z'
+datePublished: '2016-06-02T08:14:04.168Z'
 title: Time flies when your having fun
 author: []
 sourcePath: _posts/2016-06-02-time-flies-when-your-having-fun.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
