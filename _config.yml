@@ -1,7 +1,30 @@
-name: Yuli
-favicon: null
-layout_spectrum: 0.461515684844926
 typography_spectrum: 0.9988488154485822
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.21814163052476943
+  lightness: 0.3326647251378745
+  saturation: 0.8632183924783021
+  rhythmicContrast: 0.6768655858468264
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.461515684844926
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Yuli
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/08b78874-3bf9-40c0-98a2-34bd97b4ff56.png'
 collections:
   - index:
       path: /
@@ -14,27 +37,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  brandStrength: 0.21814163052476943
-  lightness: 0.3326647251378745
-  saturation: 0.8632183924783021
-  rhythmicContrast: 0.6768655858468264
 purpose: []
